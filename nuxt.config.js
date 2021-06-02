@@ -1,4 +1,4 @@
 export default {
-  modules: ['~/myModule'],
+  modules: ['~/modules/snarf/myModule'],
 
 }
