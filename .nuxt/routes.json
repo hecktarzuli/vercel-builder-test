@@ -1,0 +1,9 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Volumes/Code/vercel-builder-test/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1a01ca67"
+  }
+]
