@@ -4,8 +4,10 @@ export default function(){
     })
 
     function test1(req, res, next){        
-        res.end(JSON.stringify({
+        console.log('myModule1')
+        next()
+        /*res.end(JSON.stringify({
             timestamp: new Date(),
-        }))
+        }))*/
     }
 }
